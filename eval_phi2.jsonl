@@ -1,0 +1,1073 @@
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfleeing hurricane irma:you issued credit in miles, pls issue it in dollars to credit card used. at 87 y.o. i do not have any plans to fly.tu\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks girl!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes please\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nplane is full. also, i paid extra $$ to sit here. you guys can do better.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngmlmxi\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmeh.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nperfect!! thanks!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1738\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnf22695108695461\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwild\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhen does that flight arrive in portland?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n10.04\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlondon euston\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhoo4ya\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyou guys are goofing the return even worse... newark is a shit show! and nobody knows what's going on\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhow?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nand dislike that i had to check bag at gate. please enforce limits so group c doesn't have to pay the price\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njhi6ni\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndelta should not offer a connection of an hr &amp; 15 when it takes an hr &amp; 30 to clear customs, recheck bags, go through security again\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks, andre!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni figured that out. it\u2019s just another good reason not to do dst!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndelay repay\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncould you chase this please? it's now been over 28 days since i first got in touch on 30 sept\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nah yes that was the issue! thanks so much for the help, i'm booked! \ud83d\ude0d\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndm sent\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n*safe\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n8.33\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni\u2019ll wait.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nchaos ensues\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok ok! i just like to know if i speak with a male or female! ;-)\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1-25606421930\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany update?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe dimensions\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbet... bet.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude12\ud83d\ude12\ud83d\ude12\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbest airlines\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks! submitted.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n*or\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntwk39a\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": [\"##an\"]}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes, gex8ld\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlego \ud83d\ude02\ud83d\ude02\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nheathrow, ba179\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone, thanks!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni\u2019m on it ....\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njan 17\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsure did!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1330 eus-car.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks jane!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngrxvwm\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks emir\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n__email__\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#1846\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncool. still can't get the basics right like giving me the exit row i need and pay for though can you? pr bollocks. i see through it.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhow will that go through? they didn't say anything about it on the flight\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvery taasty!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n589\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\naruba to boston.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntqtq prabu\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyup\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2868\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany update?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwe are now officially #bff.taking delta tonight to make a last min business meeting in dallas for the am. first class and no lounge? #sad\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n699\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsfovx00009882 please dm me.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n33\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnot surprised\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvirgin\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\noh no it wasn't sorted, still no explanation, but your guy in the shop was very nice to chat to.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndomestic\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwho\u2019s complaining?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbut thanks for continuing to do a great job. \ud83d\udc4d\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#hoeass\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlqnkdb\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks for your help\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno sorry\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno harm done! thank you for the response!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\u0e0a\u0e48\u0e27\u0e22\u0e1a\u0e2d\u0e01\u0e27\u0e34\u0e18\u0e35\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e25\u0e47\u0e2d\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e02\u0e49\u0e32\u0e44\u0e14\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e04\u0e23\u0e31\u0e1a\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": [\"##sh\"]}"}
+{"prompt": "Classify the following:\nit was.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!\ud83d\ude18\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok, thanks\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n...\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntnx\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnumber??\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhahaha! fair play mate. nice work \ud83e\udd1d\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstill waiting\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes, confirmed\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsaratoga springs\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhelpp\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsorry, password\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nqfd4kb\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nreplied\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nadvance single?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhe just got odyssey, so now that the switch will be back, i\u2019m sure that\u2019s all he\u2019ll be playing.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nof course.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust dmed\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvt-271017-2253\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfuck\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nim on the 4.30 east coast edinburgh to london sorry i realised i tweeted the wrong feed but i have said the same to east coast\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok cheers\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthx again\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok- thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\u2018family\u2019\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndl2164357309\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyass, please tell me your thoughts on the rock or ric flair.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhappy holidays to you too!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nu up?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsdf\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1507\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmorning\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngzzwgp\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n08000 158123\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n18a.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n__email__ hmh4dccne4\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntomorrow \ud83d\udc4d\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nright here?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfor montr\u00e9al\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndefinitely december!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntxunyi\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1865\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntotally fake\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngsc39z\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe luggage has been located and will be sent to her city today. thanks again,\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks for the quick response! i'll have to think of another place to lock my bike. thanks anyway!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmy account\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhi\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 2402\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2563049671\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nroger. checked in. thank you.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncan i use my virgin ticket on chiltern railways from warwick parkway into marylebone\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsouthwest hotels\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvia....\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#ad\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 47\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfyi\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlondon victoria\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": [\"london\"]}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nconfirmation #f6apjl\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\npreston\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1093\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntoo time consuming that\u2019s why i tweeted\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\neven if i get the basic economy ticket??\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#hgtvsucks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbut you have to follow me so i can\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nphone?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni voted you mate \ud83d\udc4d\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n-*later times\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes gi9wq4\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude2d\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n3316\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!!!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you sooo much!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhen?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n@\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nplease help\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n????\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsee above\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nit\u2019s is!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust this\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#76\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n??????\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhich one?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhello\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyeah, from the train manager. explained my story to her, she had no sympathy\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nrecord locator?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes. husband.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n*notices * owo what's dis?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nokay thanks\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndon't tempt me with a good time \ud83d\ude29\ud83d\ude29\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyou're **\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nperfecto, thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok tq\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nrip off\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks \ud83c\udf39\u2764\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndefine asap\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nawesome..thank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndm\u2019d\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nqslw9r\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent :)\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndurham\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\neric?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany updates?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust sent.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nand here\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n__email__\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nawkward -\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n29 december\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n00673141\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhelp?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#notfamilyfriendly\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyayyyyy \u2764\ufe0f\u2764\ufe0f\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#worstservice #harassingcustomers\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntqvm\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks maam\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnapa\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlucky 1b\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nah\u2026thank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nabsolutely! done\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni did.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndaaaaamn delta\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n4181\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nit was carry on size. prefer not to fight with everyone for overhead bin space. thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyep\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nautocorrect! egift*\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes, exactly\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nme:\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhappy birthday!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nba0830\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n__email__\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\npls\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 1831!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2566\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nticket# 5558648388333\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nshit hadn\u2019t noticed, cheers.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhich means?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust sent.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n3320\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nugggggggggh omg sarah life as i know it is a swamp of misery and despair because of this\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you for the travel credit after today\u2019s long journey to la! that was a nice surprise, but much appreciated.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2278.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nend rant\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nkdvpsx\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nowgiox\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#americanairlines #americanair\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni had a car waiting, and i didn't see any baggage team members\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndl539\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsouthwest the real mvp \ud83d\ude4c\ud83c\udffc\ud83d\ude4c\ud83c\udffc you have all my loyalty\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\noh really?\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nglasgow\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2905\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhello\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno. was booked on virgin atlantic. that plane having issues.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nabsolutely steph!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\non it!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\u2764\ufe0f\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nconfirmation gflmpd.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nxmas tree goes up xmas eve and down xmas day night \ud83d\udc4d hum bloody bug!!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 7433\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhm46px\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you so much\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmilton keynes\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe wish i could hit the like button on this more than once!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany update?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2839\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwe did. to be honest since we only got two each we wanted to check if i got the employees a bonus or recognition so we can invite some hunger games level competition on our flights by casually leaving them out\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nawesome, thank you so much!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\npzzizk\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany alternatives?\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks \u263a\ufe0f\u263a\ufe0f\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmessage sent.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfull flight\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nperfect thank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsure\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nshould be?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nclose?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany response\ud83e\udd14\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nokay thanks for your quick reply \ud83d\ude0a\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\neuston\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n4061\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\u2764\ufe0f\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwill do. i've been quick to complain in the past when things haven't gone well so credit where it's due.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nf9tfiz\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsorted now\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvegas baby!!!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n5741\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsamsung s8\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n30 minutes later it was fixed. twitter complaints work ;)\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nty sean! \ud83d\ude0a\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\npnr:lwhuja\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you, i shall transfer my rage their way. have a lovely day! x\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks for listening. \u2708\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\u0e1e\u0e2d\u0e16\u0e36\u0e07\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e41\u0e2d\u0e1e\u0e01\u0e47\u0e40\u0e14\u0e49\u0e07\u0e2d\u0e2d\u0e01\u0e17\u0e31\u0e19\u0e17\u0e35\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e04\u0e23\u0e31\u0e1a\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncan i?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhew thanks. so i can toss this?\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwell thanks, i'll put them to use\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhope...\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#chocolateteapot\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank u\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nscrewed up\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhgq9ur\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\udc4fmade \ud83d\udc4fit \ud83d\udc4f\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks !\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbeautiful.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nappreciate it!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks a lot \u270c\ud83c\udffc\u270b\ud83c\udffc\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks \u263a\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\udc4dsure\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nrreeqe\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhen????\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83c\udf89\ud83c\udf89\ud83c\udf89\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight only.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstill \ud83d\udca9\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n__email__\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2512168945\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n*** peanus\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nweeeeeeeeeee!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1. i was wondering can put a lock on my luggage that i check in to go under the plane or can i not have a lock on it.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you, we appreciate it!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngqs6k6\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhey, thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n990\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nproud to part of an amazing family! \u2708\ufe0f\ud83d\udeeb\u2764\ufe0f\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#skyclub breakfast\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmade it ;)\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsorted, yay \ud83c\udf89\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1330 eus-car.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone! \u263a\ufe0f\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nrye\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1162\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\neverywhere!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbt\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhow?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwebsite\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes and thank you !\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni have. i don't believe there is another seat available\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude21\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnow 7:35\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmonths ago\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndecember 21-23\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nkvqugk\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes qff6iy\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nuseless\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nunderstood. thank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nand\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbeautiful\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#vx1002\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nf60avh\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmissed the flight. had to switch airlines for 2morro to get home at a reasonable time. would appreciate accurate flight times from you guys\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfrom rugby\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes idc!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlive look in at what just happened:\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nokay....i have to have a drink..lol\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks so much\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhnowxl\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsix minutes.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nokay! thank you. i will be writing to you guys shortly because it is so greatly appreciated &amp; other airlines have not always been as accommodating as you guys! thanks again \u263a\ufe0f\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n956\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngatwick edinburgh\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nright!?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nawesome photo!!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncoba ke\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\npassengers behind me in line w/ bigger carry-ons were allowed their bags on the plane. i'd like to discuss this offline.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhe\u2019s moved!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n5741\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmorning\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes please\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhat's dm?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1258.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\non it.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhow anwar?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nb6 687\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 1010\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbnbyuv\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsorry 13/10/17\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks !!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthomas cook\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsnap.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nare you using opera as your web browser?!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno need to rebook! thank you though, i appreciate it\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany update?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\na14j6p\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwas that the tree? chop it down. the arrogant swagger is outrageous.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude44\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you! wishing you a great day also. #happysunday\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngsxkab\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks kimball!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent pm\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nplanning to use it for barbados \ud83c\udf34\ud83c\udf34\ud83c\udf34\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n@ puj\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you sophie \u263a\ufe0f ba397\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntwo bookings - wly93e and lmyssa. i'd like credit for both the onward and return journey. we did a no-show due to awas alert for mt. agung.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nawesome airline!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nand i mean in a time of need like this in pr is when are airlines show the true colors\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n16.50 train\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#dad's70 \u2764\ufe0f\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni agree! my daughter, was returning to college. his mistake forced her to spend her last $80 to get her belongings to va. \ud83d\ude20\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwn6386 canceled\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#ferrelltoiletseat\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks much!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you for the reply! :)\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#hoeass\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": [\"##lant\"]}"}
+{"prompt": "Classify the following:\nso what can you tell me about this flight delay and how you\u2019ll accommodate\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nit isn\u2019t..\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany suggestions?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nrdhbov\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ng7igsf\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nabout the cutlery or the last third of the journey being not what i paid for?\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#southwestairlines #midway\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsweet thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe receipts...\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n???\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngreat - if i go to check in? thanks\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes, unfortunately\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe customer service rep told me to file a claim tomorrow. my bag is still lost.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstl!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nzero\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhr54wx\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes, you said boarding at 6:10am and most people said \ud83d\ude34\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvs16\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwill do \ud83d\ude14 thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2680\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nokay thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\npm7v3a\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n699\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndelay/repay\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsaturday\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n__email__\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nreply plss\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngib6np\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnope\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwp4pua\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nearlier upgrade?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nkqzkel\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmade it! now glasgow bound on with my trusty and a bruised banana. #livingthedream \ud83d\ude00\ud83c\udf1e\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks for update that's appreciated. \ud83e\udd1e\ud83e\udd1e\ud83e\udd1e\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvt-261017-2822\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnumber please!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhouston \ud83d\ude01\ud83d\ude0e\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbags\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n529\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncorrection...departing\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nit's __email__\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nadvance single\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nit is from your seat selector, ive finished booking the tickets so i cannot provide a link but it was quite funny tbh\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyou guys are da best. thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfaultless!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nchecked!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstill waiting.....\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany replacements?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n03445565650\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstandard?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1633\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njax\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthis is my id number: 7290226111 and my mail is: __email__. my credit card is not linked with my airasia account, let me know if i have to do it and how. thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\neither.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nafternoon mw\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngidreg\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe most unhelpful check in staff at hnl!\u2639\ufe0f\u2639\ufe0f case 4lb overweight and no budging. 3 week vacation in us, virgin staff as well\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni understand. but i bought the ticket from your team, not atc. what is the recourse for a refund/voucher?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks maeghan!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwonderful! thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nguess what its finally paid off worth the wait!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust sent!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nversion 4.9.1\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni know it's not a train but here's my dog in the car going to liverpool from paignton\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndoesn\u2019t matter we are now moving again\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nrqeb2x\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njn4vkj\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1738\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n9410027123\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust sent.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnew reservation\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n03/10/17\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1373\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyegdl21768\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks sean!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n00369076\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2472\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nintriguing!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nanytime return\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nindianapolis\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\na c seat on is still better than a seat on any other carrier! (and my bags flag free!) :)\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwe must have gone supersonic!!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\npreston sorry.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you! happy holidays!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthey aren't.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngidreg\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2546\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhat terminal\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n9324926485\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nah you found deli last seen in eric bailly\u2019s pocket\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank u!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nphew! thanks.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2333080315\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nw5c425cn\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes please\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhen when\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nref no - vieaf57946 submitted on aug 28th\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nrosana fran\u00e7a.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes. we did ride with the on a flight from #sydney to #welly in 2010 across the ditch. amazing scenery on the plane\ud83d\ude07\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust arrived\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvs006.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe agent said we are suppose to ask every time. really? i'm standing in line seeing no one asked. i'm also diamond, not like i'm new here.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbgr88s\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nadvance. non-refundable?\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwell i will not tell anyone else about it from virgin trains\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nla\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmorning hq \ud83d\udc4b bring on hedgymchedgeface #vthedgehog\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhappy #deepavali\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nis 30-10-2013\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\na\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe friday:)\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nof course! #trueblue on!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n*ard?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwiid5m\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": [\"ma\"]}"}
+{"prompt": "Classify the following:\nnice one, that worked. \ud83d\udc4d\ud83c\udffe\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude25\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwill dm.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyea definitely\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#screenshotsdontlie\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njordan - thank you for your response - i'm not seeing a link, could you provide it again for me? thanks.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nplease let me know what that entails bc i have yet to see it from your rude reps.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n3277\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you! i really appreciate it.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhen?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1301\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nworked. merci!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhi thanks for that. is this all tickets including advance singles?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nincoming again.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone!\ud83d\ude01\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 1904\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsmh delta!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhow do i get a refund\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni\u2019ll do that right now! feel free to dm me. lol. i\u2019m a teacher-my funds are limited but my heart is big.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes, vt-261117-2537\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nconfirmation gflmpd.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n27/10\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nso not hp just cb and mm?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok, thank you! will do :)\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfucking bullshit!!!!!!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#bestchristmasmovie ever\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmorning\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhow?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone. thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncool, thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlater\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nif ur operating a support page on a social media, atleast reply to the queries...\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnah, lets take a moment to appreciate virgin trains following me\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nkgwv5f\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok shared\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nand seattle?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhello?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngqjhco\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n9372208828\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nperfect! thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok thank\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngllwz4\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\naa1349\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvt-071117-5544\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndl2903\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude44 ughhhh!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nit\u2019s tiny!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nisef5b\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndm\u2019d you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvs4046\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni love southwest thank you for always being the best airline.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncalifornia. \ud83e\udd23\ud83d\ude04\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndl459!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmr prickles\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\naa2550\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#itsabouttheexperience\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ne8qqaz\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlast night.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsolved\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n48\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nta\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n0062302406077\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndm sent\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvs5302\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyep\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhkq7jg\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\noh thank you guys!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthey tried...\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nanother victim\ud83d\ude04\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude04\ud83d\ude04\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngreat thanks! got them online \ud83d\udc4d\ud83c\udffc\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nperfect. thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\noh absolutely! \ud83d\ude02\ud83d\udc11\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nto preston\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsolved\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhy\u2019s that?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlima, peru\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone. thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthankyou\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni'm waiting\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngsxkab\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nguess what?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbarrie?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nit\u2019s so cold!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nto wilmslow\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust did.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany luck?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni meant.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust sent. thanks !\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhi!! trying to get in touch with who will be in charge of the transport of my beloved rescued dog from mexico to the uk - any help?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthankyou\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhow can you not enjoy the flight when the captain is singing fly me to the moon on takeoff :-) #whyiflyswa\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsacramento ?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok keep me posted what are the odds of both of my daughters flights being delayed friday flight 184 rdu to bos and now 1583 bos to rdu\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsuccess! thanks!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you so much\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#deltafails\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndm sent\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n624 \ud83d\ude2d\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#fridayfeeling\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n926a today\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#southwest #houston\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhich city?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncan i charge that at airport when i check in and put my bag on that flight?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno explanation*\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#airasiasupport\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnah.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngot it\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#mvpgold75k\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nviews indeed.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude0a\ud83d\udc4b\ud83c\udffb\ud83d\udc4b\ud83c\udffb\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\udc4c\ud83c\udffc\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\noh we\u2019re ready as! we ready! \ud83d\ude04\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nanyone there???????????\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nplease do!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nde-board*\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks! the travelers insurance you have through allianz does it cover the entire trip costs (ie hotel airbnb) or just flight and medical?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok thanks\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstaycation \ud83c\udfe0\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe agent did not ask about the miles available in my friend's account. and he actually would have had enough miles. please do provide this place. the bit.ly link you just included did not work.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n? feedback?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhqtd7b\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndl2610\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhow?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nand return.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno \ud83d\ude2c\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n3486\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n00606672714336\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbinbws\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyep\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you very much. may i call the mosaic line even though i haven\u2019t gotten status yet?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncheers!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni\u2019ll be with you on the 24th for nyc and can\u2019t wait! \ud83d\udc9e\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\naa 1709\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsorry\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany reply?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyeah today\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbfxymj\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsomewhere warm and relaxing!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfullsized laptop.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndefine shortly\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\natl airport\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nokay. thanks.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n295\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nand ireland???\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": [\"hawaii\"]}"}
+{"prompt": "Classify the following:\ngu2ija\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmorning\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 814\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust got an update from the gate. thanks\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsystem problem\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust sent.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyasssss\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#944\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhappy halloween\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhey how many retweets to fly me to germany to visit my buddy ? restore his faith in ur twitter game!!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\npicadilly\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nehh3kv\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsaturday 12/2\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n*status\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nokay so i can get an earlier one?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n__email__\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\naa1340\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nkzskps\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1055\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndms?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks ed\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes!!!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstill waiting...\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nvesmav\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany update?\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntoo funny!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks jane!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nba0178\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nclutchhhh\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nin jet blue\u2019s defense, it seems like we were waiting because we boarded too quickly. so i guess i really can\u2019t complain?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n0990\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\naskairasia\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhat about 390010 or 009 or 006 please\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ngreat, thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nany news?\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nif you\u2019re able to snag me one of those seats - i would create a religion around your social media team\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyeah \ud83d\ude01\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\natlanta 2814\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfrom. burbank\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": [\"##bank\", \"##bank\"]}"}
+{"prompt": "Classify the following:\nyes please\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n788\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nxlyq9m\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\na1!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthe best part is a that his grandfather is a captain for american! #stillloyaltojetblue\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nperfect! thank you for the help.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nuubgaj\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndime\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks !\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nreyvhl\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstill waiting\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nreally risris\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbrilliant - thank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nowqhmq\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntheir*\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nresolved.\ud83d\udc4d\ud83c\udffe\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstill waiting!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nget fucked,\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nguadalajara please??\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks! sent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntoo late\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nname 3.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udcba\u2708\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nljfpmp...\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude02 \ud83d\ude02 it's cute innit!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 840\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nbwi-aua\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nokay. thank you!\ud83d\ude0a\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nfly\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwebsite\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndm'd! :)\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes 800 :)\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nzzuxtv\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsi4j6s\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks ajl!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhy?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndm-ed. thanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nde acuerdo. buscaba una opci\u00f3n en l\u00ednea. gracias y buen dia\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nunacceptable\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyep.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\naaflight 5218\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsounds incredible. landscape/ wildlife wouldn't be spoiled either \ud83d\udc4c\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nluggage?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude18\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\u2217yawn\u2217\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwith\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno... a great morning to fly delta!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nterminal 3\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhat\u2019s ast?\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni know. this is how i feel at dca going through the united territory. i pity these people.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2333080315\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\na+ social media.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwhoever is manning this account now...you\u2019re the fucking worst. get fucked.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnumber 1\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nba0909\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\neasy. #bestairline\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks! \ud83d\udc95\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#1106\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhello?\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok. thanks.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nskymiles\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nboth!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ns8q767\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2566\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwill do\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmanchester piccadilly\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyyj\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmessage sent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude4f\ud83c\udffe\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\njust sent\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\ud83d\ude0b\ud83c\uddec\ud83c\udde7\ud83d\udc82\ud83c\udf09\ud83d\udcbc\u2615\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsent dm\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you-good advice-made it\ud83d\udc4d\ud83d\udc4d\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nplease ask them to get to the airport so that we can board and get out of here. very bad start to the week!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nok, thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nterima kasih\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n513-417-1032\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nif i cant travel from stafford to london euston tomorrow at 6.44, can i take a peak train on monday am to get me to work on time?\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nkings cross\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2 hour delay second week in row!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthx\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes, ok. anyway, i liked your entertainment system on the airplane. that was fun.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n__email__. thanks!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nloving your map but there is no way milton keynes is part of the north!! we don't want it ! winter is coming up here!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhe\u2019s getting off at oxenholme \ud83d\udc4b\ud83c\udffb\ud83d\udc4b\ud83c\udffb\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ng7igep\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#ferrelltoiletseat\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsorry, 29/11.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n701\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nh8b6nd\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight #0080\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n*a fee\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n9:30pm.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n2427\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntoo late. i've failed you all.\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndl114\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes sure.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nsure. uw2eut.\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\ntomorrow! thanks\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n782\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncheers!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nerm!!!! autochecker\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"technical\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nkings x\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nisn\u2019t it.?.!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ni will on my return...don't worry not spoiling my trip \ud83d\ude06\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhcv4iu\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"billing\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n7th november\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n#notfamilyfriendly\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ncan you please make the leg room a little tighter? i feel lost at sea in your roomy seats.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nhkq7jg\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you!\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nmade it!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nno\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nlink please!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyou're welcome\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\ndone!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nflight 1516, sfo to jfk\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnope :-(\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthx mi!!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nyes.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"technical\", \"entities\": [\"coast\"]}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstill nothing....\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nstill waiting!\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nnyc \u2708\ufe0f\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthx!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1436\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1176\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthanks!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\n1136\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nthank you.\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nwelcome home!\nReturn JSON: {\"intent\": \"refund\", \"sentiment\": \"POSITIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\naa 204\nReturn JSON: {\"intent\": \"cancellation\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
+{"prompt": "Classify the following:\nrugby\nReturn JSON: {\"intent\": \"booking\", \"sentiment\": \"NEGATIVE\", \"topic\": \"service\", \"entities\": []}"}
